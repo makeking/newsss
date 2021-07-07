@@ -1,0 +1,3 @@
+//include ':FileBrowerlibrary'
+include ':app'
+rootProject.name = "Books"
