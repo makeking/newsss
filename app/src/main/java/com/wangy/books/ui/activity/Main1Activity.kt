@@ -23,5 +23,6 @@ class Main1Activity : AppCompatActivity() {
         ) { dialog: DialogInterface, which: Int -> dialog.dismiss() }
         builder.create().show();
 
+
     }
 }
